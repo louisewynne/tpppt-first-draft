@@ -9,12 +9,33 @@ body {
     margin: 0;
 }
 
+h1, h2, h3, p {
+  margin-left: 20px;
+}
+
+
+.title {
+  padding-top: 50px;
+}
+
+.socials {
+  font-size:20px;
+  margin-bottom: 10px;
+}
+
+.site {
+  height: 20px;
+}
+
+
+/* top menu css ==================== */
+
 .topnav {
   background-color: #FFBFCC;
   overflow: hidden;
   position: fixed;
   top: 0;
-  width: 100%;
+  width:100%;
   padding-left: 0px;
 }
 
