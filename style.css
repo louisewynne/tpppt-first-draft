@@ -9,13 +9,13 @@ body {
     margin: 0;
 }
 
-h1, h2, h3, p {
-  margin-left: 20px;
-}
+
 
 
 .title {
-  padding-top: 50px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
 }
 
 .socials {
@@ -26,6 +26,30 @@ h1, h2, h3, p {
 .site {
   height: 20px;
 }
+
+#mission-dog {
+  float:right;
+  padding-left: 30px;
+  margin-right: 0;
+  border-radius: 20px;
+}
+
+/* specific texts */
+
+#mission-section {
+  background-color: #AF8B87;
+  color: #FFE0ED;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  height: 300px;
+  font-size: 20px;
+}
+
+#mission-image-text {
+  display: flex;
+}
+
 
 
 /* top menu css ==================== */
